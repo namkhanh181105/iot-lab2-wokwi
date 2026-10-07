@@ -1,0 +1,21 @@
+HiveMQ connected rc= Success
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791356846220, "seq": 13, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791356853529, "seq": 14, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791356860093, "seq": 15, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791356866605, "seq": 16, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791356873192, "seq": 17, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791356880232, "seq": 18, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791356886959, "seq": 19, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791356989508, "seq": 43, "temperature": -28.5, "humidity": 69.5}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791356996565, "seq": 44, "temperature": -28.5, "humidity": 69.5}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357002897, "seq": 45, "temperature": -28.5, "humidity": 69.5}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357004999, "seq": 1, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357009395, "seq": 46, "temperature": -28.5, "humidity": 69.5}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357010344, "seq": 2, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357015609, "seq": 3, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357016530, "seq": 47, "temperature": -28.5, "humidity": 69.5}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357020741, "seq": 4, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357025910, "seq": 5, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357031093, "seq": 6, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357036305, "seq": 7, "temperature": 24.0, "humidity": 40.0}
+bridge -> {"device_id": "esp32_01", "ts_ms": 1791357103415, "seq": 8, "temperature": 24.0, "humidity": 40.0}
